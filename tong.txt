@@ -1,0 +1,8 @@
+
+ tu|2000| con| phan cuc|2000uf|tot|10601
+ tro|2000| con| 0,25cm|tot|2000om|10501
+ mo han|100| con| han thiec|mo han|10401
+ diode|2000| con| vbe 0,7|tot|10301
+ tip41|3000| con| vbe 0,7|npn|10201
+ nguon to ong|2400000| con| 12v|dc|10701
+stm|100| con| 12v|dc|10101

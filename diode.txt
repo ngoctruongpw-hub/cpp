@@ -1,0 +1,1 @@
+ diode|2000| con| vbe 0,7|tot|10301

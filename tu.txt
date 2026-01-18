@@ -1,0 +1,2 @@
+ tu|4000| con| gom|4000uf|tot|10603
+ tu|2000| con| gom|3500uf|tot|10602
