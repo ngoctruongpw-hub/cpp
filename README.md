@@ -8,7 +8,6 @@
 - Xem thông tin linh kiện
 - Tìm kiếm linh kiện
 # Mô tả
--Xử lý dữ liệu thông qua vector rồi lưu lại vào file chứ không trực tiếp sửa và xóa trên file
 - Mỗi class đại diện cho 1 loại linh kiện xác định
 - Mỗi class có 1 file.h để khai báo
 - Sửa thông tin thông qua mã số của linh kiện đó
