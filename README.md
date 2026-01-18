@@ -1,7 +1,7 @@
-##Giới thiệu chương trình
+## Giới thiệu chương trình
 - Chương trình quản lý linh kiện viết bằng ngôn ngữ c++
 - Chương trình có các chức năng như thêm sửa và xóa và lưu vào file
-##Chức năng
+## Chức năng
 - Thêm linh kiện
 - Sửa linh kiện
 - Xóa linh kiện
